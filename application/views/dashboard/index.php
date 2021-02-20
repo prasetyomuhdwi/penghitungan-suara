@@ -129,38 +129,65 @@
 
             <div class="row">
                 <!-- Column -->
-                <div class="col-md-4 col-lg-3 col-xlg-2">
+                <div class="col-md-2">
                     <div class="card">
                         <div class="box bg-info text-center">
                             <h1 class="font-light text-white"><?= $kecamatan_count ?></h1>
-                            <h5 class="text-white">Kecamatan</h5>
+                            <h4 class="text-white">Kecamatan</h4>
                         </div>
                     </div>
                 </div>
                 <!-- Column -->
-                <div class="col-md-4 col-lg-3 col-xlg-2">
+                <div class="col-md-2">
                     <div class="card">
                         <div class="box bg-primary text-center">
                             <h1 class="font-light text-white"><?= $desa_count ?></h1>
-                            <h5 class="text-white">Desa</h5>
+                            <h4 class="text-white">Desa</h4>
                         </div>
                     </div>
                 </div>
                 <!-- Column -->
-                <div class="col-md-4 col-lg-3 col-xlg-2">
+                <div class="col-md-2">
                     <div class="card">
                         <div class="box bg-success text-center">
                             <h1 class="font-light text-white"><?= $tps_count ?></h1>
-                            <h5 class="text-white">TPS</h5>
+                            <h4 class="text-white">TPS</h4>
                         </div>
                     </div>
                 </div>
                 <!-- Column -->
-                <div class="col-md-4 col-lg-3 col-xlg-2">
+                <div class="col-md-3">
                     <div class="card">
                         <div class="box bg-warning text-center">
-                            <h1 class="font-light text-white"><?= $tps_input ?></h1>
-                            <h5 class="text-white">TPS Sudah Input</h5>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <h1 class="font-light text-white"><?= $tps_input ?></h1>
+                                </div>
+                                <div class="col-sm-6">
+                                    <h1 class="font-light text-white"><?= round($tps_input / $tps_count * 100, 2) ?>%</h1>
+                                </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <h4 class="text-white">TPS Sudah Input</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Column -->
+                <div class="col-md-3">
+                    <div class="card">
+                        <div class="box bg-megna text-center">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <h1 class="font-light text-white"><?= $tps_count - $tps_input ?></h1>
+                                </div>
+                                <div class="col-sm-6">
+                                    <h1 class="font-light text-white"><?= round(($tps_count - $tps_input) / $tps_count * 100, 2) ?>%</h1>
+                                </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <h4 class="text-white">TPS Belum Input</h4>
+                            </div>
                         </div>
                     </div>
                 </div>
