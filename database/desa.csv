@@ -1,0 +1,218 @@
+﻿id;desa;password;kecamatan id
+1;Bringin;$2y$05$dhn37y4RwmoiXQDNJlEnpufnapTs4dP4mc3vDX68s3tDpUkVVlAfC;1
+2;Dampit;$2y$05$WZ.sC5U17kSNFOoJOYsT7Obtfxz8QJh5Eu88NsZVAnIFQRUuC1l5.;1
+3;Dero;$2y$05$bK17hPge3rfyfHTTAdTVheF5RwAKbpigjhVHi1p7LFJ3hxVInYc.K;1
+4;Gandong;$2y$05$oAKkc4pTaERfaxKTFBDePel65r1VpUDJrMKZEku/KFUzgGOujJUO2;1
+5;Kenongorejo;$2y$05$8HUkS4oSp0DzYY3VJ1Ys9eMi1wKda6JJVylcbdYjJ3qP1.XH34hEi;1
+6;Krompol;$2y$05$.nzUsF.AmVYuafC7rp0DPuLiTrrZ/ikgInovMDnqu4CoWP7WSVN1i;1
+7;Lego Wetan;$2y$05$J87SxC4aylmjrs8p3qlIY.QthaVqYQa0u1n.zClRH1fjX/KQetzRK;1
+8;Mojo;$2y$05$cvJMVJN8G9lA9Fji63mkBOJEzv2PsIuTft5oikq1C7ARa6/boeZcS;1
+9;Sumber Bening;$2y$05$.Xw.nDY5IDMIteiVt4AwVuqi6JcrF1qBSZ8neY.KLoaGfXfGBsiUC;1
+10;Suruh;$2y$05$dsp4ugtnejTZEhO2MYl51uESdpGBWAdZ/o1tRY3x71Nu92RSHPNNy;1
+11;Baderan;$2y$05$Wc4iX4NPbLisxcMtOqTkkuVxIxDhuCGuKgN5gtkSijJQLXqw4eQAS;2
+12;Dempel;$2y$05$tczZ1M3sW4CnFYS.d37bCeQSDvf.Bjr5OD0MQXWA2XvvzpfBLKAx2;2
+13;Geneng;$2y$05$RQxdWlVBIxUvrcO65OwMVOF4kn8ZnNj6f0KSpFvHpp5LP3GXAC.VC;2
+14;Kasreman;$2y$05$37yYbuEl1FdxNf6lphc7.ezXodiUyXWR4wwpMdWIp3PBjw3ApKkPq;2
+15;Keniten;$2y$05$mxeQcBxH/2oKLJYsnnL9QO81.2Z2Hv.abshGCT0mAM9qD13LNB.nu;2
+16;Keras Wetan;$2y$05$XtT4NVghokgk/z8ATcepw.LvmT3nxtG6QiW9HzDhB3nN2lZGkfWtq;2
+17;Kersikan;$2y$05$InOX8kQ.lcUkMzV1li6QSOECwByWfkooPWmAiY7vi7Suz6YeIkSfG;2
+18;Kersoharjo;$2y$05$K1es9bXMVU/22F0QzPUb1urK3yOK.qgIKzIRyOaNGMXQbHWuI5ADu;2
+19;Klampisan;$2y$05$b.sdLhRskg2MUqUeDqgYZuK/cSBN8IQN8l3cxglUwFMVgFsuc0GCK;2
+20;Klitik;$2y$05$o.jY.A7dOU4fALuD5IJNceJpQ7hiblDuxicAKSZ51.7Q6m5GJuQF2;2
+21;Sidorejo;$2y$05$CBpen1e98W0cCZzXqgWA2ue84mkyqqgqqhmdFj.MNam0GTUXUl6ly;2
+22;Tambakromo;$2y$05$ite90WDQJZbNvbYl/EYpUeS9uREC8Ii6nTJi/IqY50fvgr8nP4Fo.;2
+23;Tepas;$2y$05$ytc3G81OcBjFtM37yKoe8evPTdFW/epBgiVtFjRa231CF83WrHDLO;2
+24;Gerih;$2y$05$1uZuLwfOtX0datdJTN2X4.cNHMt99.C04fLN7p6QX0IkiTJK2UwSe;3
+25;Guyung;$2y$05$.h..KQuCkT.sitCnKIdC8.RqEphlKtgcFchjVX0YKiDy1g2dL7TUC;3
+26;Keras Kulon;$2y$05$Eo1i.NI1IES3HHTujfpzweA.xpNIg0gLX8owKO0wnXBh8BGCnvs.u;3
+27;Randusongo;$2y$05$EadK2zmvec9npYR8vxsDHueGzvmZgGEjPxXrqaRmsrLyDSOCQTndq;3
+28;Widodaren;$2y$05$BkiePDg73TYCZ11DVM3UyOmQP3xh6RlipND9Pj2CpV8XDyX1BKdIO;3
+29;Umbulrejo;$2y$05$wFu2M508XPk39.FSI3mu6.B1INfZXdZ2XcjC/d.s5ovbWtEC8dpw2;4
+30;Kletekan;$2y$05$8bcRLo5TqX0ahT.h4VLX5uFZUtAxZDJnO.4Dgrkm0ttBdgh6IY9.K;4
+31;Jaten;$2y$05$saTv1MOYoVPWAaahOHLeBeKTgl.EmEzcMlf8t/8rTsHI1qtS0d4Xi;4
+32;Girimulyo;$2y$05$7nEGTCvE9g3LD7Qgbpl5Oe/98CFB2568TBr/4ReLlz62vbHA2Bt6K;4
+33;Ngrayudan;$2y$05$Q2cjW6dx/X103mhvGbyN7.riTwBCnNvAOM8OF1Zi16YjqyxKiv79O;4
+34;Talang;$2y$05$q1NfOkbGOZuRRl6SXSENjeU3slFAiSRCbVOPYEmwV7FQrGUfL5qqG;4
+35;Macanan;$2y$05$CKTtxiRkzdN.NMhp68Phuu/TfBw8xN6mk/zcqCscL3eYt3woUq5Qe;4
+36;Brubuh;$2y$05$GGlVgopP5me64nLqiEbbx.HaXrho5CJ3tHMuL09IQN2BSx.U5M8Sq;4
+37;Jogorogo;$2y$05$WPi65p9NekaXn0wzl7JGK.7Jp6Sv9pJhTCdeirSyFb8HoVd3qePnO;4
+38;Dawung;$2y$05$Q6lnLciFSETUmmS7XM4g.O.VWVGr4Pr6NpNY4yHIL8eHfqOfcpYSS;4
+39;Tanjungsari;$2y$05$5ZyQUdJrLRHQdt.6Jphj7.xp.rDl2/8CCRajc3ZmUvRcJ6coAOOxm;4
+40;Soco;$2y$05$PSAM7QcLqgSTXPo4ZQGSw.WzqLuuToa46/EpE9KVeFn9n7wRePSfK;4
+41;Bangunrejo;$2y$05$LPeR9OLq/75mF6GOsIwvrulbonso4v2ZNMTKOQxRqm8cwtE00G39.;5
+42;Gembol;$2y$05$1uRcxL.qRCjXZV2rpIHIJOvdNoidHdlLSTZUxdc/ELWACuFLB55QC;5
+43;Karanganyar;$2y$05$gyD1pc4wtIRnce1QMk/SJe3DiMTrEjgg9otonl0LnMNcH5NevTWgG;5
+44;Mengger;$2y$05$7.xX9kxq7zoLn/g7xWjam.HxZx.2W1Rhk1Um906Lv.plu6LLo8FJu;5
+45;Pandean;$2y$05$MR1lQ.EJXOD6SNT/lAotO.mb8aYuYNJYZ8mOuP3U35Ir6sCpQ30mC;5
+46;Sekarjati;$2y$05$VPlQp.IBQHVA/9wzaRC4EOu6VzSkAqBVV.jexbSMcJV4YQIRTFrG2;5
+47;Sriwedari;$2y$05$YiFs4tkV41RxnGKEUt4EJ.Ffd0KK0g3OXYy0cO4NO5XcAypTRZTTG;5
+48;Brangol;$2y$05$p7g1ABdkomgPWc9ND0ZoAejeYz6RpCeWMf5h4lkinWy0w/lQCe0s2;6
+49;Campurasri;$2y$05$xuuRFylUJTqQwTYoEuhjDeDEHlOPW0TctQ/qTZSWAkFLpVNgIMkVW;6
+50;Danguk;$2y$05$5.3CsgJaUODvdicMkTR8a.IzOHd577wEdu8Vw1FmWzb080uDJx5um;6
+51;Dungmiri;$2y$05$MDZESyhcJVgMIa7R5u3lOexXy/MckOMxEPH6G1HYShLNwRgnxwJ/2;6
+52;Gempol;$2y$05$cXTnTf97Vc0EnuM0gV1CNu8D3ZScw.AvIA/5LLZluNiKDsRW92DJS;6
+53;Jatipuro;$2y$05$icaE4ldM/xgp0bXziFKox.z1rYLqX0zgYvKRFwmByOCYq/pTP3Nne;6
+54;Karangjati;$2y$05$YCl9OiTWkh67dCFISTtbeeQuavzaa4jW7vvXFq.f4PxxKIGf1XoAi;6
+55;Legundi;$2y$05$a1W3XEFeQ8y5h5603GftvOrVr6Wy6TgaSK3dQIJt4AQ6UqL.OjXd6;6
+56;Ploso Lor;$2y$05$riWjZr7q5Rpi1BARkxJtEeUv4S/gpVDIiimrC4xN8LTi5xvd01D2C;6
+57;Puhti;$2y$05$1hqMn8N.TMenRGkj.9sN4ePITw.Br8jUiZweQjytl678bLfEPnQXG;6
+58;Rejomulyo;$2y$05$f/.QnjShLsBeV7aBAn5mHuS4BGstewuMZNnU0ZwWYCJddhxvNqkou;6
+59;Rejuno;$2y$05$7n8vqiuuPYFP88cORdZPPuTWIV/5B3iiguFmRPzUPkFB7oNk0Hzju;6
+60;Ringin Anom;$2y$05$J8ITk/yJ6duZCHraflmaX.HNXfHWosstHRoSiTfIE94DbjUfxoq4C;6
+61;Sawo;$2y$05$IceSIDt3HnHSqN.au25I7e//bnIpg9RAKk37lk.RpP9NBCi8wsL9q;6
+62;Sembung;$2y$05$d32qxqxkyswhzDytUnTMjeXdn5apnaGSrzJnwHedvPVyCGBTGflum;6
+63;Sidokerto;$2y$05$TEuZx8ZVALWpgwO0Z7pjOuajr8vkvQt2ENDEibKYvwyWKeNOzDGaG;6
+64;Sidorejo;$2y$05$J52gJ5T0bK9kfkuqx7DLSOzIoH/Ki1KeWJ.aKtT8KiwthuoCmMYiW;6
+65;Cangakan;$2y$05$UE45jZ6NiA1OOA5/oEy6Ee4W3XrBOr6nAFt4YGNEJ7SCtHvsppLFu;7
+66;Gunungsari;$2y$05$5tjJe1aMm6Ihsyc9tVZxpeyQWiQjwO/qPfASrBpczitxYGB309nUG;7
+67;Jatirejo;$2y$05$St3GhNgR2MXWngFzBa5D3ugfU6LHXjF/VZwBXFGfAeUCsqX3uY8A2;7
+68;Karangmalang;$2y$05$gKg1wMth6StlSA9ZGSPYe.D4Kr1u..D0x2Vv5n0mnONoX08/cflq.;7
+69;Kasreman;$2y$05$Fd/3ZXm5E2GfIVp7uouv5uLX1hwSyz.zkDShEIRbZZXYG19J/G20m;7
+70;Kiyonten;$2y$05$udy4iqkT5s95.90kmMisI.6IalhbRsWpReukdTl81up1gC1SLJEI6;7
+71;Lego Kulon;$2y$05$1P8/UdWTqY4D/4p3tMGfFemitu4Ps7qTtnCJxe/TZhtWtjAOoQb2q;7
+72;Tawun;$2y$05$emdJJLbwPzTVbGYp7v2wj.e85F0G5mZWBkmYlrm.6/CWTUsyDyF5u;7
+73;Begal;$2y$05$wc6eiAPPoCX5tGjc0HZmZeL39qe/ezEJJh1IxiR1.1o1ychnUDx/W;8
+74;Wonorejo;$2y$05$w88uGPpfozRHcmWZHwvnDO0n3y9giyvSmJ0NL5BNav2/2giEGGX9W;8
+75;Katikan;$2y$05$a9aPC73mcTVcun7LizX0yeODWR9.99xFHabRGqVMHaZPjIIt2x2/G;8
+76;Pelang Kidul;$2y$05$BwVD4Aq59Rn72dvY0/bGK.UPyc/RF1ClTf0KkeyW9w1TrUTPelhFW;8
+77;Kedunggalar;$2y$05$agx3mSMeZMYgjiOak6a3V.A66dZ9GynDFA6ELIOQYAOwhx9xRdO/m;8
+78;Jatigembol;$2y$05$SfrZNuidG8ISWEXNWeMMreFUJdHpe/OMovgxXwx8bOlQ/1onHjpde;8
+79;Pelang Lor;$2y$05$TL0pMPOyEHLBMIh9XMXeuulNzkRXWkX.raztpqxyGzm4H8j89ipEi;8
+80;Bangunrejo Kidul;$2y$05$QdPWaYrNdt39XMxR709exubv6AAvJo42Yz8oDPrXYx0.k2yWUIm2K;8
+81;Jenggrik;$2y$05$Kp5SHwJIkvBQYak4uz/4mOEAcnj5649cEVutNmET4CLJt/kd3JDNu;8
+82;Wonokerto;$2y$05$s.OhQ2iUs/m2rQrfzznkmOqltf8y1LQ4wsBsit4UwGNOKlu/oheD2;8
+83;Gemarang;$2y$05$auQBlJbfRYtz38E3W7N/7ePcnFRO/qkrcHCfhwWf8TDi7rfV3CqJW;8
+84;Kawu;$2y$05$.U05dM1w2uxcaLFD361SNudhCBL8X.VkwBE4WIy1Dyaq8d852XJJa;8
+85;Dadapan;$2y$05$M7cJAEfNqRdPOpelANlcH.cf1UV9nhxjZz6Sj1SvTH5tuJjIIxDk6;9
+86;Gayam;$2y$05$96VAIw0TST765vb/MmqZQuMjz4lI1mskFzI6u1rYSQVGM2CsH/kee;9
+87;Karanggupito;$2y$05$iTWcm/.c66OfHdcH0jQ.a..wX.8P8wP0pjjb8bzIX6jdRkOueP7Wm;9
+88;Karangrejo;$2y$05$SSm8tOFjDXtgyx7Urb15juY7Ff5.kVZxJAxYm1a2of8nwOmOHokE2;9
+89;Kendal;$2y$05$IzUU7/DzxVSp9lqMvFw6f.sYtVYXqtNQ7dNBCJvV6AlIMC2/2Q//a;9
+90;Majasem;$2y$05$Kk7DnEuOY599lP72oancE.YZmV9C48LGOsPDcR6hf7J/wHGYH7lWy;9
+91;Patalan;$2y$05$SyttD8UFyP9srJyslEBQ5Oz5vWMnQvRDKPtQ/.L4JQW58ndxbr4RO;9
+92;Ploso;$2y$05$aBoDhK2.FDcy5ySH38dFtu1uwWQ2zhYPlj6v0PvIcrbnmZ./oSSRS;9
+93;Sidorejo;$2y$05$.PtQ/daPaS9g6uzG6jExeuSIW17I9tZWUUfwEBR3qMpyl/ZwJ0ehe;9
+94;Simo;$2y$05$lHYq/dFcSSqba8TJld6w3.jBS/VplEye0RtQPTVxl7IKuGO90AsYi;9
+95;Banget;$2y$05$x0rPsaP1m8OSRQ1J0YSrTOmOAl4Ev8LacgIAKY5SW0OjuFNr6pU52;10
+96;Budug;$2y$05$M/BmY8nul0PAW/OeYdcrEevQY0cZvEGhPFgWU8W9F7a4uvJacTBqS;10
+97;Dinden;$2y$05$3fy7Y5cZNx9IeDdIRzsc3.0BbIbCWSKyfPEd3AT81PZDaBoQ4EYVy;10
+98;Jenangan;$2y$05$d4rPeEmzpSg02HkmigBuCODj5AMq7dTDBbYCNOPxNpaYjRK232cJK;10
+99;Karangsono;$2y$05$DF/CW81M1mUZDc7AOMIWjO3NQPq3MG1Eh3g4xmst.9CJnmfhe47k.;10
+100;Kendung;$2y$05$W4GNhLYZm2VbNuZDDWidB.4rGg61/en2rKNZHnuWJ76G0yaxPFlW2;10
+101;Kwadungan;$2y$05$E0cB.vrYuEq3oIsGjctkK.S17ohite7C5K28PBsPEW0Fo1GBPauMW;10
+102;Mojomanis;$2y$05$uXlpBGcirxq7iH/P4T87e.zNqzvlns4Aqj7HRxDYCkfwA3m1L8CCC;10
+103;Pojok;$2y$05$1hTkhD.VmuYjKf1WoALIJ.9Ls4nNtkHLAqJw.ryg7.wGVHHYXbxy6;10
+104;Purwosari;$2y$05$4SOsKLmvvgtM52UMotvFf.qpI/hKG9Mlr3TJ1EjnoWJJzprbHNwXi;10
+105;Simo;$2y$05$9rRSKoQS.cRG5ywBNZuA4.H057sAZLBwsj./P84XGVw0vMOcfWuFm;10
+106;Sumengko;$2y$05$aD0C3fp9Mw0p.bexalgPW.b9cW63g8sNVIQw3edHrQiUfYk9I2iXy;10
+107;Tirak;$2y$05$W4hrYIXiBCIi6hetazrcHO1Vk1s85njL2h7rqAXgb5n165U4Gad3O;10
+108;Warukkalong;$2y$05$JCSaMwyTUKhiGCvMRbaVqOIWrYKeh.161YF5DOPOS5YFjwi5j5GkK;10
+109;Jatimulyo;$2y$05$hc0wgXtrFY1Prq9aw.zrbe4v4smAchK6RMXqp6O3AA20/nMjtPkXW;11
+110;Kedungharjo;$2y$05$fLSWic7im5mYG5lQcZI.0ee3izrU4nG8HaHfePWIJSetTJG24bqP6;11
+111;Mantingan;$2y$05$OgwKEsJe/tuGFwILtLaj8uzk55iC6rhOijqdy0Hv7/B4fM53zqte2;11
+112;Pakah;$2y$05$FTCUjavmMF1KwRGHJ55.8uCmN6gpcuMqRPPebpvscFWYd1nxKzreC;11
+113;Pengkol;$2y$05$SVFKJpZLdpEfX950XVRlEOrNjFBS0PwB6YKF6IFo5pCpBu3wueBhi;11
+114;Sambirejo;$2y$05$d8tLjTAoz95GOpOoePv6bOvFOMPdUDr4ADjul8e6IUSj7Ornelo8m;11
+115;Tambakboyo;$2y$05$W.uloQSaNjnqZh4LzaEbcOH76PKgchF3MOkDUa6kfUhpvrrr3hn96;11
+116;Banyu Urip;$2y$05$TdOqQflXvy5Lo2uJKVCBaOUvIWLcAH.GcOWg.wJUm8y1lAYMyw4.e;12
+117;Beran;$2y$05$k8r4y5EAtnbCq.OUDjsyN..Edg.WVlgQCKuGqkswWHPcroI3kWXuy;12
+118;Grudo;$2y$05$esmdrrg26uqgY4Kh0PqSTO5eVi7pSqMhU3MKLmEzTgjvk3Xt2uYMO;12
+119;Jururejo;$2y$05$PhyVguVGQ70D8eG6qxrb5.IIRk527Xh.3HwTq9BCQe8R6LOGwacWG;12
+120;Kandangan;$2y$05$0E69VGsk3HmR1s55WilZb.G4Vos6hClhKB4ayxBjYeV.3ZAMeHisa;12
+121;Karang Tengah;$2y$05$bR6g5cfvkHlxVbMhqFMeZ.BE/2IUq8SSoZPTSp344rX19mVzYnBpm;12
+122;Karangasri;$2y$05$Wd36VuaKiRAyHYcuiXIAheJMpso4xZRbpCw.OYKSEA.lF4rxjkGK2;12
+123;Karang Tengah Prandon;$2y$05$K351slwYA9eQBfN3bDkq4eLAxUEqSYtOBAlgZNmmIbmG5GhhZq6hi;12
+124;Kartoharjo;$2y$05$oqFxoxoqtrC7d6A1r1U3QunP9RjGQw1m77j.i3.35lUUBX4cFQswG;12
+125;Kerek;$2y$05$F7A3q7On25fHeVpTqPMvDOnBSAkglmHzm5z64mgt.3inHyG5XutjO;12
+126;Ketanggi;$2y$05$asZIlFNr3t2J/xuO8UBTTe.aKvu7fflMh/5tL.7L9YNbSRWrAgx/y;12
+127;Mangunharjo;$2y$05$ZEfJJKXxW3Q7pRJPZdKec.XvcFsw7ZAGprbad1g5yXLCUl7W0YKHO;12
+128;Margomulyo;$2y$05$L6wCNR6aAJcqvxsJTDB7VuYEY.ejPShPaD/Twy1fJQwU.o/UthNp6;12
+129;Ngawi;$2y$05$H5lKod/pIkjT8R/IyPdj1OywVqu7pSizyLrB96PxS41sjHyWz0.OO;12
+130;Pelem;$2y$05$flaVdlhfyh34unkIFg5MJObXwjuSmm7vyE.H5dVTq04h6jjz3HtcW;12
+131;Watualang;$2y$05$.tgfcECwtWdvycC30XzNf.u3Reha70u/C99pe60H2xqrW74aXrg2C;12
+132;Babadan;$2y$05$n7sJM4xqdgTtpIfZmmE2B.hn/EvxU7bz//2ILnGfgJiGAQPB2c7ae;13
+133;Cepoko;$2y$05$4j.EV503yjxqw8DNal/QlujCG2/nAqWBL.VUCWT7yIiCN.HIwDiNS;13
+134;Giriharjo;$2y$05$KrRUlnkjfQij6qHcYYnkXeC50zXN7PT3ETq.NXtzc2twPtvFlMcLG;13
+135;Hargomulyo;$2y$05$PEt1w/inR.agilZGpYRvvukfwd5FUK5Hyia8SHPBHy0LeYkzuUyVW;13
+136;Krandegan;$2y$05$oVbJGMQw8NwpcH1rfAflkOtpdl2hmmw9RH.uypqH8KFZ9ZnYqFXFS;13
+137;Manisrejo;$2y$05$VbtAFvVlaw5zOsIOUFgjGumH8DyA4CPsdtyIZ.qHxQ84WJX2L8ujy;13
+138;Mendiro;$2y$05$TD.bO8beomCE5gCfvRe28uLOmd9u2d98RW3TfRBMhqZIWahZGecpe;13
+139;Ngrambe;$2y$05$hA.mK3yvmK.kGMtwubcROOIYd4XsrzCxb37eMMC0gKHCZ1WFQF.zC;13
+140;Pucangan;$2y$05$I.2EX2SfukzQM5b1fKxUaeB9fbg56p5ZtIXCcspBvFdUV6fbj.aum;13
+141;Sambirejo;$2y$05$H9RZ/OA4SNMCuPj1N.3hPu4lmDEKNum3.fAMXmBbEHjceb6BK.wMC;13
+142;Setono;$2y$05$bdd1eoQnLdC1jngpKSzE1uvHCADrvZ.ZYdNHnCYdhQ7jWWxpgBxuW;13
+143;Sidomulyo;$2y$05$r78QwW3c/WzeF5uvqiGHLOelriXRCEwdzNNHGASyco75nRFmoWhq.;13
+144;Tawangrejo;$2y$05$ZVdZ5us/RGynRcBqv1.EZuCGE1WtPfP1eXyyer5N4PhHj3dh8JKkS;13
+145;Wakah;$2y$05$jfMrbGK1TmljBeTa7stSQuG6XNJTP.xzstZrOXWP.2UeNoFp542e6;13
+146;Banjaransari;$2y$05$GzqF6CnZqcuOHNivI8zmAeVLfK5X2yd7Ffy.xa9q1VhnyNVFsgbvq;14
+147;Bendo;$2y$05$XQK/P9XMFeFw.u7KQW2NwOj8aZF/kejtiSxqun6eeREx.KssoGmAu;14
+148;Bintoyo;$2y$05$cTIny/AhO38BzhlfIEN9f.t12ewn70JbhQ2.eq.OalWNuCjm1iNZe;14
+149;Kedung Prahu;$2y$05$szJOTlF9wOLeMZ9Z26HkFOCb9hDot2Ckt7I9ReCUunxEaJTMBk28K;14
+150;Kwadungan Lor;$2y$05$w6M.Z84miAryDPJ.l9X8UeX/W7epHFiNscEsJQNiqqWijripDT5s6;14
+151;Munggut;$2y$05$kRDr61CMfM.RzrAXCxtXV.bo1ycFRyHmbs2qdprHHCGRYOvZKPaMm;14
+152;Pacing;$2y$05$FqyLgG9V0hbyYUO/C4YJ1uGGJHHcdLEMgJkgvvM51GmRldTUFsWvi;14
+153;Padas;$2y$05$7utfYJ72SnbwUM6ACn25o.qB6kbg0f9re.I0ENdll6nD3WVhtxJIm;14
+154;Sambiroto;$2y$05$6STX5OGC4WHl2BOw/07GuezrpcPmj.9Wkhkw5G70ZSxVcC7FXAy2m;14
+155;Sukowiyono;$2y$05$bxpj8wsjEZgasER67UZaLOwzWyoqpL35ZbBYwoAljyd6Ts4olk.t2;14
+156;Tambakromo;$2y$05$aEutGiinZ9eP9cxFMRQE9eIMgeLWsoiGp1Wv9YBV0ZUW2B1gqz5x6;14
+157;Tungkulrejo;$2y$05$Yb8nY5HBwxoiB5dSlhjz7.fW5daqUYJxGzNvX18vX/9P4F/.rfVGO;14
+158;Babadan;$2y$05$lv0ps6jODc7fdKitJfPT3e5ghyZLOYL9HNDLRXpAPCVAN7mTkZZzi;15
+159;Gandri;$2y$05$GsKLBaQkVAO5flDQWcGP1.SINE9YHq90r/1m2cMA/fQRinrFFlSZe;15
+160;Ngompro;$2y$05$F79jO/6RKy0bYh4jBD8gnOCy7ahmvq6U7yktEDjB6XxI55aEUwWIC;15
+161;Pangkur;$2y$05$qrdlUK1AyXU41Z1VL1a5V.3nVzold5Bs0DioRZ0.AV9YwZu/W6ayS;15
+162;Paras;$2y$05$DWTbqWj3xbXff4Shy8h8Gufm2t531ymOZnK/eR29NgbPE.sWdS1hm;15
+163;Pleset;$2y$05$JJallYVxFMBUxCqJChTYBu0/04KtNwJrnXFqDgHEW7LEYl8u3leau;15
+164;Pohkonyal;$2y$05$Wgjfn6021.vb9LCzN83qqOsBFrA.kurDBFLYM1C.H.JoKu.9iDtpW;15
+165;Sumber;$2y$05$OJUm0ZCJ0dOMIqink15eh.LsgXpouwCsjXLNRSWj3QMbslLWQnROi;15
+166;Waruk Tengah;$2y$05$Z4GR4acwWUjGXSjbUgZl4ufEOPyPDZ7BGqwyh2z9DJd.V5KH7cKbO;15
+167;Babadan;$2y$05$l8dcqOWZ0BaI.YbT8wqTAeMVjpYTgVlx.BaWSlhWLnPbMzSFIwNU2;16
+168;Dawu;$2y$05$V9nUQtQjdPcfY7QFdYpRy.rrLIreYAd1h7gCdxInIHb0ZehY018fC;16
+169;Gelung;$2y$05$oOUxzRGdlw2loR0Sg2qhKet0ILcC39gVCol9f7XXJ6OlToVwrhiOm;16
+170;Gentong;$2y$05$cHmn31plKUbPfYuKgwW5C.f85H84JjjxzZ2JxgnZvvIE7mfh1K24q;16
+171;Jambangan;$2y$05$HpYQc0yqhLCZauu.GlDDZOGfe5I5qZWoM2bEl1Hk0J0/T1q6JJsr.;16
+172;Jeblogan;$2y$05$GAnNYdHkO2c/TSu7gaBvnO9sgR1dlfwTQo.vC7MpgfpCTuqGKTJ12;16
+173;Kebon;$2y$05$4fxtv5MvTLkw70aWAFddcu4hYG1HCEm1tKdC.8jLbzeCVmivtfRyy;16
+174;Kedung Putri;$2y$05$FxPnJeSt7Dyw9ukvLIW/f.34qfYze0LIC3v/inhPKn1dKgRw5sCm2;16
+175;Ngale;$2y$05$49hdEJ7Sf07q1z4JG4LhmuQuFVW091grBLocB9SsU5HRVmB/DqU7G;16
+176;Paron;$2y$05$DJfhFnEf8XU05G.fv3e7eOkKwvxhPbhQvm5WTS1BtOb1s/96xq97S;16
+177;Semen;$2y$05$hbKawe.I7Ud3CVX9cTYmaeM81NyF2bwUCbf0T4XxlzvQNvJVcg8eu;16
+178;Sirigan;$2y$05$KYF/.Mk4bCL62qUEq5pSWu1w1aZF9gCLOy7/FcDY693.uNCWwvp/u;16
+179;Teguhan;$2y$05$3r9/aqwOcWLcLlr8J4DmX.KH7h5SF41gBO0LfefIiFHYNiezY/jiK;16
+180;Tempuran;$2y$05$WbD7bA4aCroUNfVs9ymCuuzUU0VLYds.mS5oKXAkCPt1fUMFeYXe6;16
+181;Bangunrejo Lor;$2y$05$mBOOvw5nTYQzGk/BMAmx/u9f5ezEzXXHWx8E2tx.0zDeUWXD9NixO;17
+182;Banjarbanggi;$2y$05$lxsuwtKLVySqn4/6uBdQT.HpHm.WnYVeSf5EK3wuq81pIpPpoywnG;17
+183;Cantel;$2y$05$lNXtqXfmMsaOjHpl.G5FEeLLSSrBaztH0.mhTGq.kjK/Hov36LtQ.;17
+184;Dumplengan;$2y$05$4EJw9ggPLHcxxiKuFJ.yme6nJ430jNsmfw7Ny365J7rYVOOuf/h1a;17
+185;Kalang;$2y$05$nRedqAq9/l2yq2jmH5HcH.x9nXUwLo9nB14HUr.ydPWVa6lNh5sIW;17
+186;Karanggeneng;$2y$05$J.hmcMINVo.YJHIpNtbE9ebhm8DYqi5UHg0tb75tcRqsSRYF9bOYG;17
+187;Ngancar;$2y$05$qB8X8ndGkX3ww/b.jJyS4.EH0frPMrdbiHDYZs1LcFoOybK6H4zo2;17
+188;Papungan;$2y$05$4.ezRO9vRHNc9Hz7.vPNTeVq6Z0k.NUFbbBzUIqd6GFnvHKF0Q0D.;17
+189;Pitu;$2y$05$SCRoioRuPWK0UnNJX9/yjueq/vXHcZTJc4viwlE2VDmFwnadHZWHe;17
+190;Selopuro;$2y$05$75Y7ZULuV.uGplv0XQxvuuMcNEF8yMqzVBqN.GnBmU0Ngxblbp/L.;17
+191;Gendol;$2y$05$z38LhuEe7IJtd2WQqU6I1OhMx1rGqrJoMzYMXhOCzsbn1DkwsPol2;18
+192;Girikerto;$2y$05$NIlbdQanMnyEO3W3K8exKOAYgSOk/guxcSdLSirIXLSO3Hx/SBz32;18
+193;Hargosari;$2y$05$WIlNj.yZtI5ivtp.K0RQMuKEfIavPJPkurrV2Jn8bwNQcaj8O6Xum;18
+194;Jagir;$2y$05$f3SyGYo8J2HsJyU176GMY.e1BYHs/r8orT1xaALvwUwXj3dE777dS;18
+195;Kauman;$2y$05$xLY6aRVa82JxoAZxYEIqcOeixVWGqPQuyNPqQIYmGA/5PPckTL4Wy;18
+196;Ketanggung;$2y$05$zPryLNZrFhIWpelVHpmL4ecsnxPJGnouo55lwd9J3l6csSEqHJ0T6;18
+197;Kuniran;$2y$05$cvP4SrdEZ9x1vfSX/es7dezxF2uGS7374pjm3epjYCxrClZzBLH8S;18
+198;Ngrendeng;$2y$05$SFLclc/3A018m0qqRRt52.15bkTgPf6eiHicGhSfha9fGcdMzW2Ym;18
+199;Pandansari;$2y$05$P9/zVWm2.Yhn/dW.YLj61.JJMSNsbT5ToaNTVMOnp6xEtZ248K4aK;18
+200;Pocol;$2y$05$QcDbih.1/TuaV5ciAuaAzuvxtYrYHWor01W5sCpOZsNU53.5exrOG;18
+201;Sine;$2y$05$jEq1kETJU0WUiQFdFpepe.Bm4xM3FJDAZU7AUvbTMHQS4IhA48ghu;18
+202;Sumberejo;$2y$05$NiTNjOcB/ePYfLubwfnf3.JQOqf/yodOjKG2XfTI.KvrRc8gAEQ9a;18
+203;Sumbersari;$2y$05$E.LZzZVErqRNMkKqgX94EuRm6bc/udoXhpbSR701CPBhEw4AmCx.i;18
+204;Tulakan;$2y$05$H6Yew/swz2.ADsP7X24nuO9nuE86qorGQduG5oCjU8bCZLMUOQVSW;18
+205;Wonosari;$2y$05$BBZOYgsdSyB3Ed1xOEgTUOissSfD6OXDgSeNrVEubD5Df9jqpGxm6;18
+206;Banyubiru;$2y$05$yNfPK9hALq/PJXGO3b178./yAvK/28D80Cy5crYtzYPj0z7YkGJba;19
+207;Gendingan;$2y$05$kmfEXMTVq.zeBnrsySitmu4Zo5i4NBlyv1D.LI4XMJAW.fJzUACw6;19
+208;Karangbanyu;$2y$05$6DEUzTHgF6ELaRl1sUnLbOxudfnh4Cs/h266wkIQgaU3KOQHiDlXi;19
+209;Kauman;$2y$05$Z8PIgQZhen0j6/tGKbt1x.B5u7LvjgV0peVvVqsH7NSIau9ce2WlO;19
+210;Kayutrejo;$2y$05$srES9VuVUDRpkWq88i5j9uyS5TF6UGSxFl5e0ASIT8i2WLqJvphgG;19
+211;Kedunggudel;$2y$05$E6wsRJ8n9/SP9HNUs5Ornuzdi0oFi0TVlMYaf4vqe0hpFhtkSThRO;19
+212;Sekar Alas;$2y$05$OoPBaOgsGA4ZHe6geieTcefDT0/LB67lQHsytgiRWH.vteNocVkaq;19
+213;Sekar Putih;$2y$05$.akMIzkvcy5YRbwbKU6Xee9yGsAmMCQ9m1GkxnpzWfhQ29XV0WfwS;19
+214;Sidolaju;$2y$05$d7bDo0L0Cqcj.z1EF7vSgeMyOTRFBx8MhEal3DHMLyhP90W2xeckK;19
+215;Sidomakmur;$2y$05$Lqk8E/p6CCulz2kRY64I5OvsqeeingHsGVwIdLkdqas54DLOz2FNS;19
+216;Walikukun;$2y$05$Pa5c3FT6hXamYD2wKudmb.ZgGFnqZ3C49SYM0r51EBYTF0xYGpl/q;19
+217;Widodaren;$2y$05$YSEKtYMyBnceC/rTGpthw.J0vNKXTS9Biw5JMQadxDcQlAp524apm;19
