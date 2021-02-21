@@ -3,7 +3,11 @@
         <tr>
             <td align="center"><?= $ttd_jabatan ?></td>
         </tr>
-        <br><br><br><br><br><br>
+        <tr>
+            <td>
+                <br><br><br><br><br><br>
+            </td>
+        </tr>
         <tr>
             <td align="center"><b><u><?= $ttd_nama ?></u></b></td>
         </tr>

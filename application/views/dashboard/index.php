@@ -219,10 +219,10 @@
                                     <h4 class="text-center">Rekapitulasi Total</h4>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/kabupaten/I') ?>" class="btn btn-warning"><i class="fa fa-search"></i> Preview</a>
+                                    <button type="button" name="type" class="btn btn-warning" onclick=" window.open('<?= base_url('cetak/kabupaten') ?>','_blank')"><i class="fa fa-search"></i> Preview</button>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/kabupaten/D') ?>" class="btn btn-success"><i class="fa fa-print"></i> Save & Print</a>
+                                    <button type="button" name="type" class="btn btn-success" onclick=" window.open('<?= base_url('cetak/kabupaten?type=D') ?>','_blank')"><i class="fa fa-print"></i> Save & Print</button>
                                 </div>
                             </div>
                             <!-- Column -->
@@ -232,10 +232,10 @@
                                     <h4 class="text-center">Rekapitulkasi Per Kecamatan</h4>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/kecamatan/I') ?>" class="btn btn-warning"><i class="fa fa-search"></i> Preview</a>
+                                    <button type="button" name="type" class="btn btn-warning" onclick=" window.open('<?= base_url('cetak/kecamatan') ?>','_blank')"><i class="fa fa-search"></i> Preview</button>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/kecamatan/D') ?>" class="btn btn-success"><i class="fa fa-print"></i> Save & Print</a>
+                                    <button type="button" name="type" class="btn btn-success" onclick=" window.open('<?= base_url('cetak/kecamatan?type=D') ?>','_blank')"><i class="fa fa-print"></i> Save & Print</button>
                                 </div>
                             </div>
                             <!-- Column -->
@@ -245,10 +245,10 @@
                                     <h4 class="text-center">Rekapitulasi Per Desa</h4>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/desa/I') ?>" class="btn btn-warning"><i class="fa fa-search"></i> Preview</a>
+                                    <button type="button" name="type" class="btn btn-warning" onclick=" window.open('<?= base_url('cetak/desa') ?>','_blank')"><i class="fa fa-search"></i> Preview</button>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/desa/D') ?>" class="btn btn-success"><i class="fa fa-print"></i> Save & Print</a>
+                                    <button type="button" name="type" class="btn btn-success" onclick=" window.open('<?= base_url('cetak/desa?type=D') ?>','_blank')"><i class="fa fa-print"></i> Save & Print</button>
                                 </div>
                             </div>
                             <div class="card">
@@ -256,10 +256,10 @@
                                     <h4 class="text-center">Rekapitulasi Per TPS</h4>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/tps/I') ?>" class="btn btn-warning"><i class="fa fa-search"></i> Preview</a>
+                                    <button type="button" name="type" class="btn btn-warning" onclick=" window.open('<?= base_url('cetak/desa') ?>','_blank')"><i class="fa fa-search"></i> Preview</button>
                                 </div>
                                 <div class="box b-t text-center">
-                                    <a href="<?= base_url('cetak/tps/D') ?>" class="btn btn-success"><i class="fa fa-print"></i> Save & Print</a>
+                                    <button type="button" name="type" class="btn btn-success" onclick=" window.open('<?= base_url('cetak/desa?type=D') ?>','_blank')"><i class="fa fa-print"></i> Save & Print</button>
                                 </div>
                             </div>
                             <!-- Column -->

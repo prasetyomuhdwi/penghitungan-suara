@@ -1,6 +1,8 @@
+<title><?= $title ?></title>
+
 <table style="break-after: avoid;">
     <tr>
-        <td style="padding-left: 10px; padding-right: 10px;"><img src="assets/images/logo-kop.png?" . time() width="60px"></td>
+        <td style="padding-left: 10px; padding-right: 10px;"><img src="<?= base_url() ?>assets/images/logo-kop.png?" . time() width="60px"></td>
         <td style="padding-left: 10px; padding-right: 10px;" class="font">
             <h2>Pemerintah <?= $nama_daerah ?></h2>
             <h2><?= $nama_lembaga ?></h2>

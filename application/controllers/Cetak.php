@@ -9,7 +9,7 @@ class Cetak extends CI_Controller
     }
 
 
-    public function total($type)
+    public function total()
     {
         $data['title'] = 'REKAPITULASI HASIL SEMENTARA PENGHITUNGAN SUARA PILKADA SE KABUPATEN NGAWI';
         $data['kabupaten'] = 'Ngawi';
@@ -127,15 +127,23 @@ class Cetak extends CI_Controller
 
         $data['kecamatan']['jumlah']['dpt'] = array_sum($data['dpt']);
 
+        $type = $this->input->get('type');
+
         $option = array(
             'orientation' => 'P',
-            'name' => 'Rekapitulasi Suara',
+            'name' => 'Rekapitulasi Total',
             'type' => $type
         );
-        $this->pdf->print('cetak/total', $data, $option);
+
+        if ($type == 'D') {
+            $this->pdf->print('cetak/total', $data, $option);
+        } else {
+            $this->load->view('cetak/total', $data);
+            $this->load->view('cetak/templates/footer');
+        }
     }
 
-    public function kabupaten($type)
+    public function kabupaten()
     {
         $data['title'] = 'REKAPITULASI HASIL SEMENTARA PENGHITUNGAN SUARA PILKADA SE KABUPATEN NGAWI';
         $data['kabupaten'] = 'Ngawi';
@@ -182,15 +190,23 @@ class Cetak extends CI_Controller
         $data['tps_kosong'] = $this->tps->getTpsKosong(0, null);
         $data['tps_input'] = count($this->tps->getTps(0, null)) - $this->tps->getTpsKosong(0, null);
 
+        $type = $this->input->get('type');
+
         $option = array(
             'orientation' => 'L',
             'name' => 'Rekapitulasi Total',
             'type' => $type
         );
-        $this->pdf->print('cetak/kabupaten', $data, $option);
+
+        if ($type == 'D') {
+            $this->pdf->print('cetak/kabupaten', $data, $option);
+        } else {
+            $this->load->view('cetak/kabupaten', $data);
+            $this->load->view('cetak/templates/footer');
+        }
     }
 
-    public function kecamatan($type)
+    public function kecamatan()
     {
         $data['title'] = 'REKAPITULASI HASIL SEMENTARA PENGHITUNGAN SUARA PILKADA PER KECAMATAN';
         foreach ($this->pengaturan->getPengaturan() as $pengaturan) {
@@ -275,15 +291,23 @@ class Cetak extends CI_Controller
         $data['jumlah']['tps_kosong'] = array_sum($data['tps_kosong']);
         $data['jumlah']['tps_input'] = array_sum($data['tps_input']);
 
+        $type = $this->input->get('type');
+
         $option = array(
             'orientation' => 'L',
             'name' => 'Rekapitulasi Kecamatan',
             'type' => $type
         );
-        $this->pdf->print('cetak/kecamatan', $data, $option);
+
+        if ($type == 'D') {
+            $this->pdf->print('cetak/kecamatan', $data, $option);
+        } else {
+            $this->load->view('cetak/kecamatan', $data);
+            $this->load->view('cetak/templates/footer');
+        }
     }
 
-    public function desa($type)
+    public function desa()
     {
         $data['title'] = "REKAPITULASI HASIL SEMENTARA PENGHITUNGAN SUARA PILKADA PER DESA";
         foreach ($this->pengaturan->getPengaturan() as $pengaturan) {
@@ -423,15 +447,24 @@ class Cetak extends CI_Controller
         foreach ($data['total'] as $t) {
             $data['jumlah']['hadir'][] = array_sum($t);
         }
+
+        $type = $this->input->get('type');
+
         $option = array(
             'orientation' => 'L',
             'name' => 'Rekapitulasi Desa',
             'type' => $type
         );
-        $this->pdf->print('cetak/desa', $data, $option);
+
+        if ($type == 'D') {
+            $this->pdf->print('cetak/desa', $data, $option);
+        } else {
+            $this->load->view('cetak/desa', $data);
+            $this->load->view('cetak/templates/footer');
+        }
     }
 
-    public function tps($type)
+    public function tps()
     {
         $data['title'] = "REKAPITULASI HASIL SEMENTARA PENGHITUNGAN SUARA PILKADA PER TPS";
         foreach ($this->pengaturan->getPengaturan() as $pengaturan) {
@@ -517,12 +550,20 @@ class Cetak extends CI_Controller
             $data['jumlah'][] = $jumlah;
         }
 
+        $type = $this->input->get('type');
+
         $option = array(
             'orientation' => 'L',
-            'name' => 'Rekapitulasi Tps',
+            'name' => 'Rekapitulasi TPS',
             'type' => $type
         );
-        $this->pdf->print('cetak/tps', $data, $option);
+
+        if ($type == 'D') {
+            $this->pdf->print('cetak/tps', $data, $option);
+        } else {
+            $this->load->view('cetak/tps', $data);
+            $this->load->view('cetak/templates/footer');
+        }
     }
 
     public function api($desa_id)
@@ -601,7 +642,7 @@ class Cetak extends CI_Controller
         $this->load->view('cetak/api', $data);
     }
 
-    public function belumInput($type)
+    public function belumInput()
     {
         $data['title'] = 'Data TPS Belum Input';
         foreach ($this->pengaturan->getPengaturan() as $pengaturan) {
