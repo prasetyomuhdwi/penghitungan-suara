@@ -23,7 +23,7 @@
 												<div class="soc-header <?= $color[$i] ?>">
 													<h2><?= $h['no_urut'] ?></h2>
 													<div class="col-sm-7 mx-auto my-1">
-														<img class="img-fluid bg-white rounded" src="<?= base_url('assets/images/paslon/') . $paslon[$i]['foto'] ?>" alt="default.png">
+														<img class="img-fluid bg-white rounded" src="<?= file_exists(base_url('assets/images/paslon/') . $paslon[$i]['foto']) ? base_url('assets/images/paslon/') . $paslon[$i]['foto'] : base_url('assets/images/paslon/default.png') ?>" alt="default.png">
 													</div>
 													<h3><?= $h['nama'] ?></h3>
 												</div>
