@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------------
@@ -11,11 +11,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |	http://codeigniter.com/user_guide/general/hooks.html
 |
 */
+
+// load .env file
+$hook['pre_system'] = function () {
+	$dotenv = Dotenv\Dotenv::createImmutable(FCPATH);
+	try {
+		$dotenv->load();
+	} catch (Exception $e) {
+		echo $e->getMessage();
+	}
+};
+
 // hook for enable/disable profiling
-$hook['post_controller_constructor'][] = array(
-	'class'    => 'ProfilerEnabler',
-	'function' => 'enableProfiler',
-	'filename' => 'hooks.profiler.php',
-	'filepath' => 'hooks',
-	'params'   => array()
-);
+// $hook['post_controller_constructor'][] = array(
+// 	'class'    => 'ProfilerEnabler',
+// 	'function' => 'enableProfiler',
+// 	'filename' => 'hooks.profiler.php',
+// 	'filepath' => 'hooks',
+// 	'params'   => array()
+// );

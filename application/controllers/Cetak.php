@@ -136,7 +136,7 @@ class Cetak extends CI_Controller
         );
 
         if ($type == 'D') {
-            $this->pdf->print('cetak/total', $data, $option);
+            $this->pdf->printPdf('cetak/total', $data, $option);
         } else {
             $this->load->view('cetak/total', $data);
             $this->load->view('cetak/templates/footer');
@@ -199,7 +199,7 @@ class Cetak extends CI_Controller
         );
 
         if ($type == 'D') {
-            $this->pdf->print('cetak/kabupaten', $data, $option);
+            $this->pdf->printPdf('cetak/kabupaten', $data, $option);
         } else {
             $this->load->view('cetak/kabupaten', $data);
             $this->load->view('cetak/templates/footer');
@@ -300,7 +300,7 @@ class Cetak extends CI_Controller
         );
 
         if ($type == 'D') {
-            $this->pdf->print('cetak/kecamatan', $data, $option);
+            $this->pdf->printPdf('cetak/kecamatan', $data, $option);
         } else {
             $this->load->view('cetak/kecamatan', $data);
             $this->load->view('cetak/templates/footer');
@@ -457,7 +457,7 @@ class Cetak extends CI_Controller
         );
 
         if ($type == 'D') {
-            $this->pdf->print('cetak/desa', $data, $option);
+            $this->pdf->printPdf('cetak/desa', $data, $option);
         } else {
             $this->load->view('cetak/desa', $data);
             $this->load->view('cetak/templates/footer');
@@ -559,7 +559,7 @@ class Cetak extends CI_Controller
         );
 
         if ($type == 'D') {
-            $this->pdf->print('cetak/tps', $data, $option);
+            $this->pdf->printPdf('cetak/tps', $data, $option);
         } else {
             $this->load->view('cetak/tps', $data);
             $this->load->view('cetak/templates/footer');
@@ -669,6 +669,6 @@ class Cetak extends CI_Controller
             'type' => $type
         );
 
-        $this->pdf->print('cetak/belum-input', $data, $option);
+        $this->pdf->printPdf('cetak/belum-input', $data, $option);
     }
 }
