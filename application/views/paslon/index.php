@@ -41,8 +41,8 @@
 									<?php foreach ($paslon as $p) : ?>
 										<tr>
 											<td class="text-center" width="20%">
-												<img class="img-fluid border rounded" src="<?= base_url('assets/images/') . $p['foto'] ?>" alt="default.png">
-												<button class="btn btn-info btn-xs mt-2 ubahFotoModal" data-toggle="modal" data-target="#fotoModal" data-id="<?= $p['id']; ?>"><i class="fa fa-photo"></i> Ganti Foto</button>
+												<img class="img-fluid border rounded" src="<?= file_exists(base_url('assets/images/paslon/') . $p['foto']) ? base_url('assets/images/paslon/') . $p['foto'] : base_url('assets/images/paslon/default.png') ?>" alt="default.png">
+												<button class="btn btn-info btn-xs mt-2 ubahFotoModal" data-toggle="modal" data-target="#fotoModal" data-id="<?= $p['id']; ?>" onclick="addId(this)"><i class="fa fa-photo"></i> Ganti Foto</button>
 											</td>
 											<td class="text-center align-middle h2"><?= $p['no_urut'] ?></td>
 											<td class="align-middle"><?= $p['nama'] ?></td>
@@ -132,3 +132,10 @@
 		</div>
 	</div>
 </div>
+
+<script>
+	function addId(t) {
+		let d = t.getAttribute("data-id");
+		document.getElementById("id2").value = d
+	}
+</script>
